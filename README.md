@@ -1,5 +1,7 @@
 ## Usage
 
+Require：`Python2.x`
+
 usage:
 
 ```
